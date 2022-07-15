@@ -1,0 +1,11 @@
+.notes_container{
+
+    min-width: 250px;
+    max-width: 700px;
+    height: 500px;
+    padding: 10px;
+    overflow: auto;
+
+    border: 2px solid darkgray;
+
+}

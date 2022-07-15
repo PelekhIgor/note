@@ -1,0 +1,16 @@
+button{
+    display: block;
+    background-color: darkgray;
+    color: white;
+    padding: 5px 15px ;
+    font-size: 15px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: 0.5s;
+    white-space: nowrap;
+}
+button:hover{
+    background-color: lightgray;
+}
